@@ -1,0 +1,23 @@
+SORRENTINO SAMUELE 4°INA	  
+PROGRAMMA APP. DIJKSTRA
+2021/2022
+
+Questo programma è stato realizzato tramite un file.c -->main.c    e    file di funzioni.h 
+
+-primo_punto.h --> Contiene:
+✔	Soluzione dell'algoritmo dijkstra applicato ad un grafo di 5 nodi orientato in un solo verso, con dati già impostati
+✔	Soluzione dell'algoritmo dijkstra applicato ad un grafo di 5 nodi orientato in un solo verso, con dati impostati dall'utente
+
+-secondo_punto.h--> Contiene:
+✔	Soluzione dell'algoritmo dijkstra applicato ad un grafo di 10 nodi orientato in un solo verso, con dati già impostati
+✔	Soluzione dell'algoritmo dijkstra applicato ad un grafo di 10 nodi orientato in un solo verso, con dati impostati dall'utente
+
+-terzo_punto.h--> Contiene:
+✔	Soluzione dell'algoritmo dijkstra applicato ad un grafo qualsiasi, con dati già impostati
+X	Soluzione dell'algoritmo dijkstra applicato ad un grafo qualsiasi, con dati impostati dall'utente
+
+All'interno del file main.c è presente un menù di scelta per permettere all'utente di scegliere le operazioni da eseguire. 
+Il programma dispone di funzioni complete, controlli, opportuni commenti e stampa dei grafi con tabella.
+È inoltre presente la stampa su FILE di determinati grafi e tabelle per visualizzare al meglio le esecuzioni.
+
+Per tornare alla schermata di esecuzione del programma, chiudere il file "istruzioni.txt".
